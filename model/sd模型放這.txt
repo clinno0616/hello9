@@ -1,1 +1,1 @@
-
+僅限sd v1.5 checkpoint(.safetensors)
