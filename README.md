@@ -24,7 +24,7 @@
 
 1. 克隆專案倉庫：
 ```bash
-git clone [repository-url]
+git clone https://github.com/clinno0616/hello9.git
 cd stable-diffusion-webui
 ```
 
@@ -133,4 +133,30 @@ streamlit run app.py
    - 降低圖片生成尺寸
    - 減少同時使用的 LoRA 數量
    - 啟用記憶體優化選項
+
+## 授權條款
+
+本專案採用 Apache License 2.0 授權。
+
+```
+Copyright 2024 [clinno0616]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+詳細的授權條款內容請參閱 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 官方網站。
+
+## 使用者畫面
+![image](https://github.com/user-attachments/assets/1560235c-482f-4951-a575-8ab5ab44cf5a)
+
 
